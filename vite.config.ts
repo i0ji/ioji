@@ -18,5 +18,5 @@ export default defineConfig({
     },
   },
   plugins: [react(), tailwindcss()],
-  base: "/p_ioji/",
+  base: "/ioji/",
 });
