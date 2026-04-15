@@ -1,6 +1,17 @@
 I deicided to create my own page using ~~NEXT~~ React!
 
-Current build:<br>
+Stack: `React 19, RTK, vite, framer-motion, pnpm,  commitlint/commitizen/husky, TS, SASS, tailwind, linter/prettier, postcss, swiper, clsx`;
+
+<h2>Current version: 0.3.1 ~~psykisk~~ test build</h2>
+
+> <b>d: 03.03.26 v: 0.3.4 deps update; rename due to mass github namespace systematization</b><br>
+> <b>d: 19.01.26 v: 0.3.3 deps update;</b><br>
+> <b>d: 14.01.26 v: 0.3.3 theme toggle set; set state management;</b><br>
+> <b>d: 13.01.26 v: 0.3.1 main markup set; simple pages and fullfilment; simple animations; set state, store, actions to implement themes changes - `now in progress`</b> <br>
+> <b>d: 12.01.26 v: 0.3.0 deps update; new `--orphan` branch; set up env</b><br>
+
+<hr>
+0.2.3 build:<br>
 
 > <b>d: 11.12.25 v: 0.2.3 deps update; deploy older version of interface with tailwind and css/scss updates</b><br>
 > <b>d: 06.12.25 v: 0.2.0 critical update: next/react/tailwind configs;</b><br>
@@ -20,9 +31,9 @@ Current build:<br>
 > d: 31.03.25 v: 0.1.5.4b Chore/updates;<br>
 > d: 31.03.25 v: 0.1.5.4a Chore/updates;<br>
 
-> `React 19, RTK, vite, framer-motion, pnpm,  commitlint/commitizen/husky, TS, SASS, tailwind, linter/prettier, postcss, swiper, clsx`;<br>
+<hr>
 
-Old build:<br>
+<0.1 first build:<br>
 
 > d: 11.03.25 v: 0.0.1 First commit, add deps, reset style, markup, aliases;<br>
 > d: 12.03.25 v: 0.0.1 Make preliminary style and folder structure; add glitch; set deploy to gh-pages;<br>
