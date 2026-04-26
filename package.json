@@ -1,9 +1,9 @@
 {
-  "name": "p_ioji",
+  "name": "ioji",
   "private": true,
   "version": "0.3.3",
   "type": "module",
-  "homepage": "https://i0ji.github.io/p_ioji",
+  "homepage": "https://i0ji.github.io/ioji",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
