@@ -1,2 +1,4 @@
+allowBuilds:
+  '@parcel/watcher': set this to true or false
 overrides:
   tmp@<=0.2.3: '>=0.2.4'

@@ -4,6 +4,7 @@ Stack: `React 19, RTK, vite, framer-motion, pnpm,  commitlint/commitizen/husky, 
 
 <h2>Current version: 0.3.3 ~~psykisk~~ test build</h2>
 
+> <b>d: 17.05.26 v: 0.3.3 deps update; vulnerabilities check;</b><br>
 > <b>d: 26.04.26 v: 0.3.3 deps update; vulnerabilities check;</b><br>
 > <b>d: 03.03.26 v: 0.3.4 deps update; rename due to mass github namespace systematization;</b><br>
 > <b>d: 19.01.26 v: 0.3.3 deps update;</b><br>
